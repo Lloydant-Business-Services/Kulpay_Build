@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d892e274.chunk.css",
-    "main.js": "/static/js/main.8c583303.chunk.js",
-    "main.js.map": "/static/js/main.8c583303.chunk.js.map",
+    "main.js": "/static/js/main.7ba7f3dc.chunk.js",
+    "main.js.map": "/static/js/main.7ba7f3dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8944d7ba.js",
     "runtime-main.js.map": "/static/js/runtime-main.8944d7ba.js.map",
     "static/css/2.0a4cb73c.chunk.css": "/static/css/2.0a4cb73c.chunk.css",
@@ -15,7 +15,7 @@
     "static/js/5.5f1f89e6.chunk.js": "/static/js/5.5f1f89e6.chunk.js",
     "static/js/5.5f1f89e6.chunk.js.map": "/static/js/5.5f1f89e6.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.a84d68bd019cbba324ff220bf79c095c.js": "/precache-manifest.a84d68bd019cbba324ff220bf79c095c.js",
+    "precache-manifest.a57a64c566f2eb9b770408b551165136.js": "/precache-manifest.a57a64c566f2eb9b770408b551165136.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.0a4cb73c.chunk.css.map": "/static/css/2.0a4cb73c.chunk.css.map",
     "static/css/main.d892e274.chunk.css.map": "/static/css/main.d892e274.chunk.css.map",
@@ -30,7 +30,7 @@
     "static/media/AdminSuperTel.svg": "/static/media/AdminSuperTel.73837d6d.svg",
     "static/media/AdminVendors.svg": "/static/media/AdminVendors.9c8c5bcd.svg",
     "static/media/kul.css": "/static/media/Bitmap.d3b1d84a.jpg",
-    "static/media/DashboardSummary.jpg": "/static/media/DashboardSummary.2061a69a.jpg",
+    "static/media/DashboardSummary.jpg": "/static/media/DashboardSummary.36e45286.jpg",
     "static/media/Doc_Money.svg": "/static/media/Doc_Money.58cd617e.svg",
     "static/media/Frame.png": "/static/media/Frame.6980d560.png",
     "static/media/Group1582.png": "/static/media/Group1582.663487de.png",
@@ -85,7 +85,7 @@
     "static/media/search.svg": "/static/media/search.e3c37fb3.svg",
     "static/media/settings_applications.svg": "/static/media/settings_applications.16a35d49.svg",
     "static/media/settings_applications_acc.svg": "/static/media/settings_applications_acc.9226e1b2.svg",
-    "static/media/sss.png": "/static/media/sss.2297fbaa.png",
+    "static/media/sss.png": "/static/media/sss.6a161a56.png",
     "static/media/successp.gif": "/static/media/successp.0874736f.gif",
     "static/media/superTellerCollectionsBlue.svg": "/static/media/superTellerCollectionsBlue.7b9f558b.svg",
     "static/media/superTellerDashboardWhite.svg": "/static/media/superTellerDashboardWhite.8e5b3731.svg",
@@ -102,6 +102,6 @@
     "static/css/2.0a4cb73c.chunk.css",
     "static/js/2.0c3f6883.chunk.js",
     "static/css/main.d892e274.chunk.css",
-    "static/js/main.8c583303.chunk.js"
+    "static/js/main.7ba7f3dc.chunk.js"
   ]
 }
